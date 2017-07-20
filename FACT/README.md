@@ -1,6 +1,6 @@
 # FACT
 
-![img](FACT_aperture.svg)
+![img](https://cdn.rawgit.com/TheBigLebowSky/aperture_history/master/FACT/FACT_aperture.svg)
 
 The First Geiger-mode Avalanche Cherenkov Telescope
 
