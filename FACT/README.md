@@ -1,5 +1,7 @@
 # FACT
 
+![img](FACT_aperture.svg)
+
 The First Geiger-mode Avalanche Cherenkov Telescope
 
 October 2011 until at least July 2017.
