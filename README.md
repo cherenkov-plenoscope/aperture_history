@@ -9,4 +9,13 @@ Feel free to use, and modify for your work. If you find mistakes, please create 
 
 ### Please cite
 
-
+~~~
+@ELECTRONIC{aperture_history-github,
+    author = {
+        Mueller, Sebastian Achim
+    },
+    title = {Apertures in Atmospheric Cherenkov Astronomy},
+    url = {https://github.com/TheBigLEbowsky/aperture_history}
+}
+~~~
+  
