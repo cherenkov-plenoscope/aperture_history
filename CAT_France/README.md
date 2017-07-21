@@ -1,5 +1,7 @@
 # CAT France
 
+Cherenkov Array at Themis
+
 ![img](cat_france.jpg)
 
 Unknown photographer.
