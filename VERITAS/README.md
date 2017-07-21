@@ -2,7 +2,9 @@
 
 Very Energetic Radiation Imaging Telescope Array System
 
-https://veritas.sao.arizona.edu/
+![img](veritas_and_building_lite.jpg)
+
+Image is taken from the official VERITAS web pages: https://veritas.sao.arizona.edu/
 
 ### References
 Aperture Layout:
