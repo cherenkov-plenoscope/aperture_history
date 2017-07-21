@@ -1,4 +1,4 @@
-# H.E.S.S
+# H.E.S.S.
 
 High Energy Stereoscopic System
 
