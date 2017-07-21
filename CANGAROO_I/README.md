@@ -1,7 +1,10 @@
 # CANGAROO I
 
 ![img](38tele.gif)
+
 photo by S.Kamei
+
+http://icrhp9.icrr.u-tokyo.ac.jp/
 
 A rare monolithic mirror IACT.
 
