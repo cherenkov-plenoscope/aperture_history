@@ -2,6 +2,9 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+Inspired by Wikipedia User ```Cmglee``` and his illustrative work on the [aperture sizes comparisn of telescopes in optical astronomy](https://commons.wikimedia.org/wiki/File:Comparison_optical_telescope_primary_mirrors.svg).
+
+
 ## Example usage
 ![img](example_usage_IACTs_and_Portal.png)
 
