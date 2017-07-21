@@ -2,6 +2,10 @@
 
 The First Geiger-mode Avalanche Cherenkov Telescope
 
+![img](fact.jpg)
+
+Image by Thomas Kraehenbuehl.
+
 October 2011 until at least July 2017.
 
 FACT uses a refurbished HEGRA mount and mirror facets.
