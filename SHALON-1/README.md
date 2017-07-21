@@ -6,7 +6,7 @@ Image taken from proceeding, year 2005, see reference below.
 ### References
 
 ~~~
-@inproceedings{lebedev2005shalon,
+@inproceedings{sinisyna2005shalon,
   title={{SHALON: status report}},
   author={Sinisyna, V.G.},
   Booktitle={Towards a Network of Atmospheric Cherenkov Detectors VII},
