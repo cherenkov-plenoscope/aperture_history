@@ -7,12 +7,16 @@ Major Atmospheric Cherenkov Experiment
 A mono IACT.
 
 ### References
-~~~
-Presentation:
 
-Titel: Status of the MACE telescope
-Presenter: Kuldeep Yadav
-Date: 15 March, 2013
+~~~
+@online{
+    yadav2013mace,
+    author = {Kuldeep, Yadav},
+    title = {Status of the MACE telescope},
+    year = 2013,
+    url = {http://moriond.in2p3.fr/J13/transparencies/yadav.pdf}
+    urldate = {2017-07-24}
+}
 ~~~
 
 - 352 mirror panels (4 mirror facets on each panel)
