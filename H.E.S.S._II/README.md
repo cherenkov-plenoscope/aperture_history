@@ -6,6 +6,24 @@ High Energy Stereoscopic System II
 
 Image taken from [HESS web pages](https://www.mpi-hd.mpg.de/hfm/HESS/pages/about/telescopes/) (2017 July 21). The large middle telescope is HESS II.
 
+### Aperture
+| imaging reflector | |
+| :---         |          ---: |
+| focal length |           36m |
+| official diameter |     28m |
+| mirror area    |    614m^2 |
+| focus distance | variable |
+
+### FoV
+| image sensor | |
+| :---         |          ---: |
+| pixels |           2048 |
+| pixel inner diameter FoV |     0.067° |
+| pixel FoV area |     0.003888°^2 |
+| FoV official diameter | 3.2° |
+| FoV eff. diameter | 3.184° |
+| FoV area  | 7.962°^2 |
+
 
 ### References
 ~~~
