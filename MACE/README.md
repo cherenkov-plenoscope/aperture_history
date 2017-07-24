@@ -6,6 +6,23 @@ Major Atmospheric Cherenkov Experiment
 
 A mono IACT.
 
+
+### Aperture
+| imaging reflector | |
+| :---         |          ---: |
+| focal length |           25m |
+| official diameter |     21m |
+| mirror area    |    337m^2 |
+
+### FoV
+| image sensor | |
+| :---         |          ---: |
+| pixels |           1088 |
+| pixel inner diameter FoV |     0.125° |
+| pixel FoV area |     0.01353°^2 |
+| FoV eff. diameter | 4.33° |
+| FoV area  | 14.72°^2 |
+
 ### References
 
 ~~~
@@ -20,7 +37,6 @@ A mono IACT.
 ~~~
 
 - 352 mirror panels (4 mirror facets on each panel)
-- total mirror area 337 m^2
 - facet size 50cm x 50cm
 
 ![img](mace_reflector_layout.png)
