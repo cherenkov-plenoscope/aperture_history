@@ -13,6 +13,7 @@ A mono IACT.
 | focal length |           25m |
 | official diameter |     21m |
 | mirror area    |    337m^2 |
+| focus distance | inf |
 
 ### FoV
 | image sensor | |
