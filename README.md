@@ -2,15 +2,14 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Inspired by wikipedia-user ```Cmglee``` and his illustrative work on the [aperture sizes comparisn of telescopes in optical astronomy](https://commons.wikimedia.org/wiki/File:Comparison_optical_telescope_primary_mirrors.svg).
-
+A literature research on the apertures of Cherenkov-telescopes in gamma-ray-astronomy.
 
 ## Example
 ![img](example_usage_IACTs_and_Portal.png)
 
-Create figures comparing former, current, or future instruments in Cherenkov-astronomy. Feel free to use, and modify for your work. If you find mistakes, please create a pull request.
+Create figures comparing former, current, or future Cherenkov-telescopes in gamma-ray-astronomy. Feel free to use, and modify.
 
-### Please cite
+### Cite
 
 ~~~
 @misc{mueller2016aperture,
@@ -20,4 +19,11 @@ Create figures comparing former, current, or future instruments in Cherenkov-ast
     year = {2016}
 }
 ~~~
-  
+
+### Contribute
+
+Add new apertures, or report errors in a pull-request. Please reference your sources using e.g. a bibtex entry.
+
+### Inspired by Cmglee
+
+Inspired by wikipedia-user ```Cmglee``` and his illustrative work on the [aperture sizes comparisn of telescopes in optical astronomy](https://commons.wikimedia.org/wiki/File:Comparison_optical_telescope_primary_mirrors.svg).
