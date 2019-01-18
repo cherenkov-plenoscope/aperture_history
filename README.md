@@ -1,6 +1,6 @@
 # Apertures in Cherenkov-Astronomy
 
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Inspired by wikipedia-user ```Cmglee``` and his illustrative work on the [aperture sizes comparisn of telescopes in optical astronomy](https://commons.wikimedia.org/wiki/File:Comparison_optical_telescope_primary_mirrors.svg).
 
@@ -17,7 +17,7 @@ Create figures comparing former, current, or future instruments in Cherenkov-ast
     author = {Mueller, Sebastian Achim},
     title = {Apertures in Atmospheric Cherenkov Astronomy},
     howpublished = {https://github.com/cherenkov-plenoscope/aperture_history},
-    year = {2016},
+    year = {2016}
 }
 ~~~
   
